@@ -4,7 +4,7 @@ description: >
   <br><br>
   <a href="https://www.linkedin.com/in/gnewatia/">View my LinkedIn Profile</a>
   <br>
-  #<a href="/assets/Gaurja_Newatia_CV.pdf" download>Download my CV</a>
+  <a href=Gaurja_Resume.pdf" download>Download my CV</a>
 show_downloads: true
 theme: jekyll-theme-minimal
 
