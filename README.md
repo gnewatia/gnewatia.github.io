@@ -1,4 +1,4 @@
-# gnewatia.github.io
+# Gaurja Newatia
 
 ## Technical Skills
 - Programming: Python, R, SQL, SAS, SPSS
