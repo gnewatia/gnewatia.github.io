@@ -1,5 +1,8 @@
 title: Gaurja Newatia
 logo: photo_d.jpg
-#description: text below image
+description:
+Second Description
+<br><br>
+<a href="https://www.linkedin.com/in/gnewatia/">View my LinledIn Profile</a>
 show_downloads: false
 theme: jekyll-theme-minimal
