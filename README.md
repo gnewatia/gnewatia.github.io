@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="additional.css">
+
 # Data Scientist
 
 ## Technical Skills
