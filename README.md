@@ -63,6 +63,8 @@ evidence of public sector wage premium in Toronto. These insights are therefore 
 from policy point of view as they highlight critical areas where interventions might be
 necessary to address wage disparities
 
+### Data Visualization projects can be found [here](https://public.tableau.com/app/profile/gaurja.newatia/vizzes)
+
 ## Teaching
 ### Teaching Assistant, Department of Statistical Sciences, University of Toronto
 - Designed tutorials and graded assignments for the Introduction to Statistical Reasoning and Data Science course, enhancing students' understanding of statistical methods and R programming
