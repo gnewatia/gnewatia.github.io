@@ -5,9 +5,9 @@
 - Visualization: Tableau, PowerBI
 
 ## Education
-- Master of Science, Statistics| University of Toronto (_April 2024_)
-- Master of Science, International Business Economics and Finance (_August 2022_) 
-- Bachelor’s degree, Business Economics (Honors) (_May 2020_) 
+- Master of Science, Statistics | University of Toronto (_April 2024_)
+- Master of Science, International Business Economics and Finance | Gokhale Institute of Politics and Economics (_August 2022_) 
+- Bachelor’s degree, Business Economics (Honors) | University of Delhi (_May 2020_) 
 
 ## Work Experience
 **Consultant, Model Risk Management @ Deloitte (_August 2022- August 2023_)**
