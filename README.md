@@ -1,4 +1,4 @@
-# Gaurja Newatia
+# Data Scientist
 
 ## Technical Skills
 - Programming: Python, R, SQL, SAS, SPSS
