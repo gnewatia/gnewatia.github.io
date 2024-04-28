@@ -5,9 +5,13 @@
 - Visualization: Tableau, PowerBI
 
 ## Education
-- M.S Statistics | University of Toronto (_April 2024_)
-- M.S. International Business Economics and Finance | Gokhale Institute of Politics and Economics (_August 2022_) 
-- B.A (hons) Business Economics | University of Delhi (_May 2020_) 
+
+<ul>
+  <li><strong>M.S Statistics</strong> – University of Toronto <em>(April 2024)</em></li>
+  <li><strong>M.S. International Business Economics and Finance</strong> – Gokhale Institute of Politics and Economics <em>(August 2022)</em></li>
+  <li><strong>B.A (hons) Business Economics</strong> – University of Delhi <em>(May 2020)</em></li>
+</ul>
+
 
 ## Work Experience
 **Consultant, Model Risk Management @ Deloitte (_August 2022- August 2023_)**
